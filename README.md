@@ -1,1 +1,2 @@
-# BC32E-Capstone
+# Nhóm 1 
+BC32E-Capstone
